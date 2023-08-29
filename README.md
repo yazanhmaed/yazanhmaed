@@ -5,8 +5,9 @@
 <p align="center">
 <a href="https://www.facebook.com/yazan.hmaed.7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yazan hmaed" height="30" width="40" /></a>
 <a href="https://www.instagram.com/yazanhmaed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yazanhmaed" height="30" width="40" /></a>
+   <a href="https://www.linkedin.com/in/yazan-hmaed-1894251a4/" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/018/930/587/original/linkedin-logo-linkedin-icon-transparent-free-png.png" alt="google play" height="50" width="50" /></a>
   <a href="https://play.google.com/store/apps/developer?id=Yazan+Hmaed" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Google_Play_2022_icon.svg/928px-Google_Play_2022_icon.svg.png" alt="google play" height="40" width="40" /></a>
-   <a href="https://www.linkedin.com/in/yazan-hmaed-1894251a4/" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/018/930/587/original/linkedin-logo-linkedin-icon-transparent-free-png.png" alt="google play" height="40" width="40" /></a>
+  
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
